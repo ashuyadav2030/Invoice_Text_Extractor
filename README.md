@@ -74,7 +74,7 @@ Upload an image to receive raw text + AI-structured JSON.
 #### Example cURL:
 
 ```bash
-curl -X POST "http://localhost:8000/ocr-json" \
+curl -X POST "http://localhost:8000/extract-text" \
   -F "file=@sample_invoice.jpg"
 ```
 
