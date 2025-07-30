@@ -31,7 +31,7 @@ ocr_project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ocr-json-api.git
+git clone https://github.com/ashuyadav2030/Invoice_Text_Extractor.git
 cd ocr-json-api
 ```
 
