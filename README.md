@@ -61,7 +61,7 @@ Server will start at: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## 📡 API Endpoint
 
-### `POST /ocr-json`
+### `POST /extract-text`
 
 Upload an image to receive raw text + AI-structured JSON.
 
